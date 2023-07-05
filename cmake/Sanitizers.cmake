@@ -1,5 +1,5 @@
 function(
-  myproject_enable_sanitizers
+  test_cmake_template_enable_sanitizers
   project_name
   ENABLE_SANITIZER_ADDRESS
   ENABLE_SANITIZER_LEAK
